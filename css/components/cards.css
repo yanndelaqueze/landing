@@ -1,0 +1,32 @@
+.container {
+  color: black;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card-container {
+  display:flex;
+  justify-content: space-between;
+  padding: 50px;
+  align-items: center;
+}
+
+.card {
+  background: white;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  border: 1px solid rgb(230,230,230);
+  text-align: center;
+  padding: 15px;
+  width: 250px;
+  height:500px;
+  color: #A9A9A9;
+}
+
+.card img {
+  height: 200px;
+}
+
+.card h4 {
+
+}
